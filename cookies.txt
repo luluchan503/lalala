@@ -1,0 +1,7 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+laurasmartyes.wixsite.com	TRUE	/	FALSE	1999999999	XSRF-TOKEN	1694957273|bKVY6zloJdoX
+laurasmartyes.wixsite.com	TRUE	/	FALSE	1999999999	SameSite	None
+laurasmartyes.wixsite.com	TRUE	/	FALSE	1999999999	ssr-caching	cache#desc=miss#varnish=miss#dc#desc=uw2-pub-1_g
+.wixsite.com	TRUE	/	FALSE	1999999999	TS016e3841	015b43050a758e17a2af6c5f9e256669f81ef1bb1f2a9f20f842a842410322fb22a430dfba239b773e27bbf79895d10f0a549ef45a
+
